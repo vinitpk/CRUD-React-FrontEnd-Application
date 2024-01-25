@@ -1,0 +1,57 @@
+# Dependency directories
+/node_modules
+
+# Compiled files
+/build
+/dist
+
+# Environment variables
+.env
+
+# Logs
+/logs
+*.log
+
+# Editor-specific files
+.DS_Store
+.vscode
+.idea
+
+# Operating System files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+
+# Cache and temp files
+*.swp
+*.swo
+*.cache
+*.log
+
+# Compiled binaries
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.gzip
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Miscellaneous
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CRUD-React-FrontEnd-Application/static/css/main.62d3213f.css",
+    "main.js": "/CRUD-React-FrontEnd-Application/static/js/main.6d0df745.js",
+    "static/media/logo-dark.png": "/CRUD-React-FrontEnd-Application/static/media/logo-dark.8b6aaf4240b1e19f0f9e.png",
+    "index.html": "/CRUD-React-FrontEnd-Application/index.html",
+    "main.62d3213f.css.map": "/CRUD-React-FrontEnd-Application/static/css/main.62d3213f.css.map",
+    "main.6d0df745.js.map": "/CRUD-React-FrontEnd-Application/static/js/main.6d0df745.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d3213f.css",
+    "static/js/main.6d0df745.js"
+  ]
+}
